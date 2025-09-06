@@ -21,10 +21,14 @@ Features <br>
 •  Drilldown capability for detailed product-level insights <br>
 
 screenshot <br>
+Overveiw <br>
 ![Overveiw](https://github.com/shrivj2312/Sales-Performance-Dashboard/blob/main/Overview.jpg) <br>
 
+Selling <br>
 ![Selling](https://github.com/shrivj2312/Sales-Performance-Dashboard/blob/main/Selling.jpg) <br>
 
+Sales Trends <br>
 ![Sales Trends](https://github.com/shrivj2312/Sales-Performance-Dashboard/blob/main/Sales%20Trends.jpg) <br>
 
+Categories <br>
 ![Categories](https://github.com/shrivj2312/Sales-Performance-Dashboard/blob/main/Categories.jpg) <br>
